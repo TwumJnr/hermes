@@ -1,0 +1,9 @@
+{
+  "name": "messaging",
+  "version": "1.0.0",
+  "description": "Messaging for me",
+  "main": "index.js",
+  "repository": "https://github.com/TwumJnr/hermes.git",
+  "author": "The Blue Dev",
+  "license": "MIT"
+}
