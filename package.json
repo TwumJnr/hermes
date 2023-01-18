@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "https://github.com/TwumJnr/hermes.git",
   "author": "The Blue Dev",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "dev": "cd functions && yarn dev"
+  }
 }

@@ -1,0 +1,15 @@
+export declare const formatDate: (dateString: string) => string;
+export declare const setDate: (dateString: string) => string;
+export declare const dateTime: (dateString: string) => string;
+export declare const getTime: (dateString: string) => string;
+export declare const getAge: (dateString: string) => number | "";
+export declare const currentDate: string;
+export declare const time: string;
+export declare const dateSerial: string;
+export declare const dateTimeSerial: string;
+export declare const fullCurrentDate: string;
+export declare const dateToday: string;
+export declare const monthYear: string;
+export declare const minMonthYear: string;
+export declare const monthAgo: string;
+export declare const rawDate: string;
